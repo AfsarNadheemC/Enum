@@ -12,3 +12,4 @@ D:\IT\Software\C#\Enum\obj\Debug\net9.0\refint\Enum.dll
 D:\IT\Software\C#\Enum\obj\Debug\net9.0\Enum.pdb
 D:\IT\Software\C#\Enum\obj\Debug\net9.0\Enum.genruntimeconfig.cache
 D:\IT\Software\C#\Enum\obj\Debug\net9.0\ref\Enum.dll
+D:\IT\Software\C#\Enum\obj\Debug\net9.0\Enum.sourcelink.json

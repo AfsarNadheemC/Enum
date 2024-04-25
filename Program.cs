@@ -25,6 +25,15 @@
 
             Console.WriteLine("Instance Enum Value : " + (int)newenum);
 
+            int x = 7;
+
+            newEnum nenum = (newEnum)x;
+
+            Console.WriteLine("Converted : " + nenum);
+
+            Console.WriteLine("Converted Enum Value : " + (int)nenum);
+            
+
 
         }
     }
